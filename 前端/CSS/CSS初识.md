@@ -69,3 +69,27 @@ div{
 }
 <div>xxx</div>
 ```
+- 属性选择器
+```css
+input[type="text"]{  
+    border: 3px solid royalblue;  
+}  
+.v1[xx="123"]{  
+    color: pink;  
+}  
+.v1[xx="456"]{  
+    color: gold;  
+}
+```
+```html
+<div>  
+    <label>  
+        用户名：  
+        <input type="text" name="user" />  
+    </label>  
+</div>  
+<div class="v1" xx="123">兰亭已矣，梓泽丘墟。</div>  
+<div class="v1" xx="456">穷且益坚，不坠青云之志。</div>  
+<div class="v1" xx="789">东隅已逝，桑榆非晚。</div>
+```
+![](https://img.tucang.cc/api/image/show/909627cc98df26fa6df8ed2c1914e4a1)
