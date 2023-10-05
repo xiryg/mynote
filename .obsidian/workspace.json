@@ -6,7 +6,6 @@
       {
         "id": "f7e6169a052ff897",
         "type": "tabs",
-        "dimension": 72.56711409395973,
         "children": [
           {
             "id": "ca5467fe4176e3f1",
@@ -45,29 +44,10 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "191fe87201db303b"
+            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "95d3959e1df37ae7",
-        "type": "tabs",
-        "dimension": 27.432885906040266,
-        "children": [
-          {
-            "id": "e2f463dd03899f15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "前端/CSS/CSS初识.md"
-              }
-            },
-            "group": "191fe87201db303b"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -199,9 +180,9 @@
   },
   "active": "e94195ddbf842990",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "2023-10-05.md",
     "前端/CSS/CSS初识.md",
+    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "前端/CSS/CSS样式.md",
     "Excalidraw/Drawing 2023-10-05 20.11.04.excalidraw.md",
     "前端/HTML/HTML初识.md",
