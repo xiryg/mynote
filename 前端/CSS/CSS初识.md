@@ -93,3 +93,28 @@ input[type="text"]{
 <div class="v1" xx="789">东隅已逝，桑榆非晚。</div>
 ```
 ![](https://img.tucang.cc/api/image/show/909627cc98df26fa6df8ed2c1914e4a1)
+- 后代选择器
+```css
+.x1 li{  
+    color: pink;  
+}  
+.x1 > a{  
+    color: brown;  
+}
+```
+```html
+<div class="x1">  
+    <a>百度</a>  
+    <div>        <a>谷歌</a>  
+    </div>  
+    <ul>        <li>茉莉</li>  
+        <li>荼蘼</li>  
+        <li>蔷薇</li>  
+    </ul>  
+</div>
+```
+`.x1 li` 找到属性`x1` 下的 `li` 标签，
+`.x1 > a` 找到属性`x1` 下的`a` 标签 (儿子标签)。
+
+![](https://img.tucang.cc/api/image/show/56e3687f832316132991676127dcebff)
+
