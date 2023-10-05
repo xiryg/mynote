@@ -6,6 +6,7 @@
       {
         "id": "f7e6169a052ff897",
         "type": "tabs",
+        "dimension": 72.56711409395973,
         "children": [
           {
             "id": "ca5467fe4176e3f1",
@@ -44,10 +45,29 @@
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "191fe87201db303b"
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "95d3959e1df37ae7",
+        "type": "tabs",
+        "dimension": 27.432885906040266,
+        "children": [
+          {
+            "id": "e2f463dd03899f15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端/CSS/CSS初识.md"
+              }
+            },
+            "group": "191fe87201db303b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
