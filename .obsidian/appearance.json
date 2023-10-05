@@ -1,8 +1,11 @@
 {
-  "accentColor": "#228ec9",
+  "accentColor": "#452b82",
   "theme": "system",
-  "cssTheme": "Minimal",
-  "baseFontSize": 26,
+  "cssTheme": "Prism",
+  "baseFontSize": 20,
   "interfaceFontFamily": "Arial Black",
-  "textFontFamily": "华文楷体"
+  "textFontFamily": "华文楷体",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false
 }

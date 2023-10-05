@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "前端/CSS/CSS初识.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           }
@@ -165,13 +165,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8614d4b8352ed684",
+  "active": "0459925eb13033cf",
   "lastOpenFiles": [
+    "前端/CSS/CSS样式.md",
     "前端/CSS/CSS初识.md",
+    "前端/HTML/HTML初识.md",
     "README.md",
     "Excalidraw/Drawing 2023-10-05 17.41.11.excalidraw.md",
     "2023-10-05.md",
-    "前端/HTML/HTML初识.md",
     "HTML初学.md",
     "CSS初学.md",
     "前端/CSS",
