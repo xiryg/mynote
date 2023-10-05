@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#228ec9",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "baseFontSize": 26,
+  "interfaceFontFamily": "Arial Black",
+  "textFontFamily": "华文楷体"
 }

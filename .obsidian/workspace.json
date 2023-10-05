@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bc5fac146f2dc4b",
+            "id": "97b638e7efb0083d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML初学.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML初学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML初学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML初学.md"
+              }
             }
           }
         ]
@@ -135,9 +143,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3bc5fac146f2dc4b",
-  "lastOpenFiles": []
+  "active": "97b638e7efb0083d",
+  "lastOpenFiles": [
+    "README.md",
+    "HTML初学.md",
+    "2023-10-05.md",
+    "未命名"
+  ]
 }
