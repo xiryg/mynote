@@ -29,5 +29,22 @@ css，专门用来“美化”标签。
 ```css
 .c2{  
     color: #7719ae;  
+}  
+.c1{  
+    height: 100px;  
 }
+```
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+    <link rel="stylesheet" href="2.css">  
+</head>  
+<body>  
+    <div class="c1">豫章故郡，洪都新府。</div>  
+    <div class="c2">星分翼轸，地接衡庐。</div>  
+</body>  
+</html>
 ```
