@@ -6,6 +6,6 @@
   "interfaceFontFamily": "Arial Black",
   "textFontFamily": "华文楷体",
   "showViewHeader": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "translucency": false
 }

@@ -29,13 +29,23 @@
               "type": "markdown",
               "state": {
                 "file": "前端/CSS/CSS初识.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e94195ddbf842990",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md"
               }
             }
           }
@@ -165,10 +175,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0459925eb13033cf",
+  "active": "8614d4b8352ed684",
   "lastOpenFiles": [
-    "前端/CSS/CSS样式.md",
+    "Excalidraw/Drawing 2023-10-05 20.11.04.excalidraw.md",
     "前端/CSS/CSS初识.md",
+    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
+    "前端/CSS/CSS样式.md",
     "前端/HTML/HTML初识.md",
     "README.md",
     "Excalidraw/Drawing 2023-10-05 17.41.11.excalidraw.md",
