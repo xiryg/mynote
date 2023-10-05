@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "63d7e27c36dff28c",
+        "id": "f7e6169a052ff897",
         "type": "tabs",
         "children": [
           {
-            "id": "97b638e7efb0083d",
+            "id": "ca5467fe4176e3f1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/CSS/CSS初识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0459925eb13033cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML初学.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML初学.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML初学.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML初学.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,14 +161,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97b638e7efb0083d",
+  "active": "8614d4b8352ed684",
   "lastOpenFiles": [
+    "前端/CSS/CSS初识.md",
     "README.md",
-    "HTML初学.md",
+    "Excalidraw/Drawing 2023-10-05 17.41.11.excalidraw.md",
     "2023-10-05.md",
-    "未命名"
+    "前端/HTML/HTML初识.md",
+    "HTML初学.md",
+    "CSS初学.md",
+    "前端/CSS",
+    "前端/HTML",
+    "前端",
+    "Excalidraw/Drawing 2023-10-05 15.24.59.excalidraw.md",
+    "Excalidraw"
   ]
 }

@@ -1,1 +1,9 @@
-{}
+{
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "smartIndentList": true,
+  "autoConvertHtml": true,
+  "focusNewTab": true
+}
