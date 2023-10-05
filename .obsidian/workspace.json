@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -178,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e94195ddbf842990",
+  "active": "8614d4b8352ed684",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "前端/CSS/CSS初识.md",
