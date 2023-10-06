@@ -1,5 +1,5 @@
 
-# CSS样式
+# CSS样式s
 css，专门用来“美化”标签。
 ## 在标签上
 ```html
@@ -284,3 +284,224 @@ input[type="text"]{
 </html>
 ```
 ![](https://img.tucang.cc/api/image/show/87fbfa9176e8c3fe17593847b95cd2ba)
+### 5.浮动
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+</head>  
+<body>  
+    <span>左边</span>  
+    <span style="float: right">右边</span>  
+</body>  
+</html>
+```
+
+标签`浮动` 起来会脱离文档流，会在页面上悬浮或左右漂浮。
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+    <style>        .item{  
+            float: left;  
+            width: 200px;  
+            height: 170px;  
+            border: 3px solid #7b062c;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div style="background-color: #7719ae">  
+        <div class="item"></div>  
+        <div class="item"></div>  
+        <div class="item"></div>  
+        <div class="item"></div>  
+        <div class="item"></div>  
+        <div class="item"></div>  
+        <div style="clear: both"></div>  
+    </div>  
+</body>  
+</html>
+```
+标签浮动起来后，从父容器脱离，父容器无法自适应这些浮动元素的高度，父容器应有的高度被内部元素覆盖，导致背景颜色显示不出来。
+- 不加 `<div style="clear: both"></div> `
+![](https://img.tucang.cc/api/image/show/9816e59d6fb58c3ae13625588aeda2b4)
+- 加 `<div style="clear: both"></div> ` 会在该行末尾清除浮动效果，使父容器重新占有一定高度并正确包裹浮动元素。因此，通过加上 `clear: both;` 属性，可以保证父容器正常地展示其内部元素及背景颜色。
+![](https://img.tucang.cc/api/image/show/527b6febf60c1dbf41f0cd99ffa20f0a)
+### 6.边距
+#### 6.1内边距（padding）
+指的是元素内容与其边框之间的空间。
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+    <style>        .outer{  
+            color: #904125;  
+            width: 200px;  
+            height: 170px;  
+            border: 2px solid #d8c3ca;  
+            padding-top: 20px;  
+            padding-left: 20px;  
+            padding-right: 20px;  
+            padding-bottom: 20px;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div class="outer">  
+        <div style="background-color: palevioletred">同是天涯沦落人，相逢何必曾相识！</div>  
+        <div>天长地久有时尽，此恨绵绵无绝期。</div>  
+    </div>  
+</body>  
+</html>
+```
+`padding-` 替换为"padding " 速记形式：`padding: 20px;`
+或者：
+`padding: 20px 10px 10px 10px;` 为 上、右、下、左，顺时针的。
+#### 6.2外边距（margin）
+指的是元素边框与相邻元素之间的空间。
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+</head>  
+<body>  
+<div style="background-color: palevioletred;height: 200px">同是天涯沦落人</div>  
+<div style="background-color: #774ac5;height: 150px;margin-top: 20px">相逢何必曾相识</div>  
+</body>  
+</html>
+```
+与 `padding` 一样设置：
+如 `margin-top`、`margin-right`、`margin-bottom`、`margin-left`，也可以使用缩写形式：
+如 `margin: 10px 20px 10px 20px;` 表示依次为上、右、下、左设置为 10px、20px、10px、20px 的外边距。
+#### 二者区别
+- 内边距（padding）是相对于元素的内容区域而言，它会增加元素内容与边框之间的空间。
+- 外边距（margin）是相对于元素与相邻元素的边距而言，它会影响元素与其他元素之间的距离。
+
+# 总结 & 拓展
+- `<body>` 标签，默认有内外边距、字体样式、或背景颜色等，如何解决：
+```css
+body {
+  margin: 0;          /* 去除外边距 */
+  padding: 0;         /* 去除内边距 */
+  font-family: inherit;/* 继承字体样式 */
+  background-color: transparent; /* 设置背景透明 */
+}
+```
+- 内容居中
+
+  - 文本居中
+
+    - 水平居中：使用 CSS 的
+
+       
+
+      ```css
+      text-align: center;
+      ```
+
+       
+
+      样式将文本在水平方向上居中。
+
+      ```html
+      <div style="text-align: center;width: 200px;border: 1px solid red">相逢何必曾相识</div>
+      ```
+
+    - 垂直居中：可以通过设置行高
+
+       
+
+      ```css
+      line-height：10px
+      ```
+
+       
+
+      和容器高度相等来实现单行文本的垂直居中，或者使用 Flexbox 布局的方式实现多行文本的垂直居中。
+
+      ```html
+      <div style="display: flex; align-items: center; height: 100px; border: 1px solid red;">
+        <span style="font-size: 20px;">相逢何必曾相识</span>
+      </div>
+      ```
+	- 区块居中
+	
+	    - 水平居中
+	
+	      - 使用 CSS 的
+	
+	         
+	
+	        ```css
+	        margin: 0 auto;
+	        ```
+	
+	         
+	
+	        将区块在水平方向上居中。
+	
+	        ```html
+	        <div style="width: 200px; margin: 0 auto; border: 1px solid red;">这是一个区块</div>
+	        ```
+	
+	      - 使用 Flexbox 布局，将容器设置为 Flex 容器并使用属性
+	
+	         
+	
+	        ```css
+	        justify-content: center;
+	        ```
+	
+	         
+	
+	        实现子元素的水平居中。
+	
+	        ```html
+	        <div style="display: flex; justify-content: center; border: 1px solid red;">
+	          <div style="width: 200px;">这是一个区块</div>
+	        </div>
+	        ```
+	
+	    - 垂直居中
+	
+	      - 使用 CSS 的绝对定位和负边距（`top: 50%; transform: translateY(-50%);`）将区块在垂直方向上居中。
+	
+	        ```css
+	        top: 50%; transform: translateY(-50%);
+	        ```
+	
+	        
+	
+	        ```html
+	        <div style="position: relative; height: 200px; border: 1px solid red;">
+	          <div style="position: absolute; top: 50%; transform: translateY(-50%);">这是一个区块</div>
+	        </div>
+	        ```
+	
+	      - 使用 Flexbox 布局，将容器设置为 Flex 容器并使用属性
+	
+	         
+	
+	        ```css
+	        align-items: center;
+	        ```
+	
+	         
+	
+	        实现子元素的垂直居中。
+	
+	        ```html
+	        <div style="display: flex; align-items: center; height: 200px; border: 1px solid red;">
+	          <div style="width: 200px;">这是一个区块</div>
+	        </div>
+	        ```
+

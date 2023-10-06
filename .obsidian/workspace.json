@@ -15,27 +15,14 @@
               "type": "markdown",
               "state": {
                 "file": "前端/CSS/CSS初识.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0459925eb13033cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -95,23 +83,6 @@
         "id": "5f46284c6079663f",
         "type": "tabs",
         "children": [
-          {
-            "id": "fc431b96a97b0803",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "9817f135aee2e061",
             "type": "leaf",
@@ -132,26 +103,13 @@
                 "file": "前端/CSS/CSS初识.md"
               }
             }
-          },
-          {
-            "id": "50ae9144d54ef698",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +125,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0459925eb13033cf",
+  "active": "ca5467fe4176e3f1",
   "lastOpenFiles": [
     "前端/CSS/CSS样式.md",
     "前端/CSS/CSS初识.md",
