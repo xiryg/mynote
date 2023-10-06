@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "前端/CSS/CSS样式.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,14 +101,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "前端/CSS/CSS样式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "前端/CSS/CSS样式.md"
               }
             }
           },
@@ -139,19 +139,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "前端/CSS/CSS样式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +167,13 @@
   "active": "0459925eb13033cf",
   "lastOpenFiles": [
     "前端/CSS/CSS初识.md",
+    "myblog_posts/素数判别.md",
+    "前端/CSS/CSS样式.md",
     "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "README.md",
     "Django",
     "数据库",
     "前端/JavaScript",
-    "myblog_posts/素数判别.md",
     "myblog_posts/pandas基础复习2.md",
     "myblog_posts/pandas基础复习.md",
     "myblog_posts/cs61a-高阶函数.md",
@@ -199,7 +198,6 @@
     "_posts/pandas基础复习2.md",
     "_posts/pandas基础复习.md",
     "_posts/pandas基础之DataFrame.md",
-    "_posts/pandas基础Series.md",
     "_posts",
     "前端/CSS",
     "前端/HTML",
