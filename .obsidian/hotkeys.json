@@ -8,20 +8,22 @@
       "key": "Z"
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "outline:open": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "D"
+    }
+  ],
+  "command-palette:open": [],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "X"
     }
   ]
 }

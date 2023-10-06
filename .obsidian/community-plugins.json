@@ -1,8 +1,9 @@
 [
-  "obsidian-git",
   "obsidian-image-auto-upload-plugin",
   "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-gist",
+  "obsidian-git"
 ]
