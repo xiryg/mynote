@@ -33,21 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e94195ddbf842990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -126,18 +113,6 @@
             }
           },
           {
-            "id": "e0cc92490032ce41",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9817f135aee2e061",
             "type": "leaf",
             "state": {
@@ -157,9 +132,21 @@
                 "file": "前端/CSS/CSS初识.md"
               }
             }
+          },
+          {
+            "id": "50ae9144d54ef698",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/CSS/CSS初识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,19 +157,21 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e94195ddbf842990",
+  "active": "0459925eb13033cf",
   "lastOpenFiles": [
-    "2023-10-05.md",
+    "2023-10-06.md",
     "前端/CSS/CSS初识.md",
-    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "前端/CSS/CSS样式.md",
+    "2023-10-05.md",
+    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 20.11.04.excalidraw.md",
     "前端/HTML/HTML初识.md",
     "README.md",

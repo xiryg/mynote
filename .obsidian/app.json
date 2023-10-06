@@ -5,5 +5,7 @@
   "rightToLeft": false,
   "smartIndentList": true,
   "autoConvertHtml": true,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false
 }
