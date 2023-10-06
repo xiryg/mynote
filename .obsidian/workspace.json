@@ -26,9 +26,11 @@
             "id": "0459925eb13033cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md"
+                "file": "前端/CSS/CSS初识.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +169,7 @@
   },
   "active": "0459925eb13033cf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "README.md",
     "前端/CSS/CSS初识.md",
     "Django",
