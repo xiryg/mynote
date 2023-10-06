@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "README.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +168,7 @@
   },
   "active": "8614d4b8352ed684",
   "lastOpenFiles": [
+    "前端/CSS/CSS初识.md",
     "Django",
     "数据库",
     "README.md",
@@ -182,7 +183,6 @@
     "myblog_posts/数据的读取与分组.md",
     "myblog_posts/缺失值处理.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
-    "前端/CSS/CSS初识.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
     "myblog_posts/pandas基础之DataFrame.md",
     "myblog_posts/pandas基础Series.md",
@@ -202,7 +202,6 @@
     "_posts",
     "前端/CSS",
     "前端/HTML",
-    "前端",
-    "Excalidraw"
+    "前端"
   ]
 }
