@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "myblog_posts/素数判别.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "myblog_posts/素数判别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "myblog_posts/素数判别.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "myblog_posts/素数判别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,21 +168,39 @@
   },
   "active": "0459925eb13033cf",
   "lastOpenFiles": [
-    "2023-10-06.md",
+    "myblog_posts/pandas基础复习2.md",
+    "myblog_posts/pandas基础复习.md",
+    "myblog_posts/cs61a-高阶函数.md",
+    "myblog_posts/图仓-PicGo.md",
+    "myblog_posts/透视表的处理.md",
+    "myblog_posts/素数判别.md",
+    "myblog_posts/数据的连接和映射.md",
+    "myblog_posts/数据的读取与分组.md",
+    "myblog_posts/缺失值处理.md",
+    "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
     "前端/CSS/CSS初识.md",
-    "前端/CSS/CSS样式.md",
-    "2023-10-05.md",
-    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-05 20.11.04.excalidraw.md",
-    "前端/HTML/HTML初识.md",
-    "README.md",
-    "Excalidraw/Drawing 2023-10-05 17.41.11.excalidraw.md",
-    "HTML初学.md",
-    "CSS初学.md",
+    "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
+    "myblog_posts/pandas基础之DataFrame.md",
+    "myblog_posts/pandas基础Series.md",
+    "myblog_posts",
+    "_posts/爬虫案例-豆瓣Top250-数据分析",
+    "_posts/透视表的处理.md",
+    "_posts/缺失值处理.md",
+    "_posts/素数判别.md",
+    "_posts/爬虫案例-豆瓣Top250-数据分析.md",
+    "_posts/数据的读取与分组.md",
+    "_posts/数据的连接和映射.md",
+    "_posts/图仓-PicGo.md",
+    "_posts/pandas基础复习2.md",
+    "_posts/pandas基础复习.md",
+    "_posts/pandas基础之DataFrame.md",
+    "_posts/pandas基础Series.md",
+    "_posts/cs61a-高阶函数.md",
+    "_posts",
+    "2023-10-06.md",
     "前端/CSS",
     "前端/HTML",
     "前端",
-    "Excalidraw/Drawing 2023-10-05 15.24.59.excalidraw.md",
     "Excalidraw"
   ]
 }
