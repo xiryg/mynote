@@ -16,7 +16,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "https://github.com/xiryg/-Django-cd-front.git",
+  "basePath": "https://github.com/xiryg/mynote.git",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
