@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/CSS/CSS样式.md",
+                "file": "前端/CSS/CSS初识.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS样式.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS样式.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           },
@@ -139,17 +139,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS样式.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,14 +163,16 @@
       "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "0459925eb13033cf",
   "lastOpenFiles": [
-    "前端/CSS/CSS初识.md",
-    "myblog_posts/素数判别.md",
     "前端/CSS/CSS样式.md",
+    "前端/CSS/CSS初识.md",
+    "myblog_posts/缺失值处理.md",
+    "myblog_posts/素数判别.md",
     "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
     "README.md",
     "Django",
@@ -181,7 +185,6 @@
     "myblog_posts/透视表的处理.md",
     "myblog_posts/数据的连接和映射.md",
     "myblog_posts/数据的读取与分组.md",
-    "myblog_posts/缺失值处理.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
     "myblog_posts/pandas基础之DataFrame.md",
