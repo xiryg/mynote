@@ -4,7 +4,7 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "smartIndentList": true,
-  "autoConvertHtml": true,
+  "autoConvertHtml": false,
   "focusNewTab": true,
   "useMarkdownLinks": false,
   "promptDelete": false,

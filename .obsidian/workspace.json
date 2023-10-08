@@ -21,8 +21,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3fff4f5deb340d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -100,7 +112,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md"
+              }
+            }
+          },
+          {
+            "id": "167ce7a4d7432358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4b56d8c95c40289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -109,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,10 +167,25 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ca5467fe4176e3f1",
+  "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
-    "前端/CSS/CSS样式.md",
+    "前端/web前端/笔记/day09/day09-小兔鲜儿.md",
+    "前端/web前端/笔记/day08/day08-CSS高级.md",
+    "前端/web前端/笔记/day07/day07--学成在线.md",
+    "前端/web前端/笔记/day06/day06-Flex布局.md",
+    "前端/web前端/笔记/day05/day05-盒子模型.md",
+    "前端/web前端/笔记/day04/day04-CSS进阶.md",
+    "前端/web前端/笔记/day03/day03-CSS基础.md",
+    "前端/web前端/笔记/day02/day02-HTML进阶.md",
+    "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
+    "前端/web前端/笔记/day01/day01-HTML基础.md",
+    "前端/web前端/笔记/day01/day01-HTML基础.pdf",
     "前端/CSS/CSS初识.md",
+    "assets/1680242502155.png.md",
+    "assets",
+    "前端/CSS/CSS案例.md",
+    "前端/HTML/HTML初识.md",
+    "().md",
     "myblog_posts/缺失值处理.md",
     "myblog_posts/素数判别.md",
     "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
@@ -145,23 +202,8 @@
     "myblog_posts/数据的读取与分组.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
-    "myblog_posts/pandas基础之DataFrame.md",
-    "myblog_posts/pandas基础Series.md",
     "myblog_posts",
     "_posts/爬虫案例-豆瓣Top250-数据分析",
-    "_posts/透视表的处理.md",
-    "_posts/缺失值处理.md",
-    "_posts/素数判别.md",
-    "_posts/爬虫案例-豆瓣Top250-数据分析.md",
-    "_posts/数据的读取与分组.md",
-    "_posts/数据的连接和映射.md",
-    "_posts/图仓-PicGo.md",
-    "_posts/pandas基础复习2.md",
-    "_posts/pandas基础复习.md",
-    "_posts/pandas基础之DataFrame.md",
-    "_posts",
-    "前端/CSS",
-    "前端/HTML",
-    "前端"
+    "_posts"
   ]
 }

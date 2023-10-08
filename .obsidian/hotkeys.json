@@ -17,15 +17,6 @@
     }
   ],
   "command-palette:open": [],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "X"
-    }
-  ],
   "editor:insert-codeblock": [
     {
       "modifiers": [
@@ -49,6 +40,24 @@
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }
