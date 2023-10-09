@@ -28,9 +28,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
-                "mode": "preview",
-                "source": true
+                "file": "前端/CSS/CSS案例-小米商城.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md"
+                "file": "前端/CSS/CSS案例-小米商城.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
+                "file": "前端/CSS/CSS案例-小米商城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
+                "file": "前端/CSS/CSS案例-小米商城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
+    "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
     "前端/web前端/笔记/day09/day09-小兔鲜儿.md",
     "前端/web前端/笔记/day08/day08-CSS高级.md",
     "前端/web前端/笔记/day07/day07--学成在线.md",
@@ -183,7 +184,7 @@
     "前端/CSS/CSS初识.md",
     "assets/1680242502155.png.md",
     "assets",
-    "前端/CSS/CSS案例.md",
+    "前端/CSS/CSS案例-小米商城.md",
     "前端/HTML/HTML初识.md",
     "().md",
     "myblog_posts/缺失值处理.md",
@@ -200,7 +201,6 @@
     "myblog_posts/透视表的处理.md",
     "myblog_posts/数据的连接和映射.md",
     "myblog_posts/数据的读取与分组.md",
-    "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
     "myblog_posts",
     "_posts/爬虫案例-豆瓣Top250-数据分析",
