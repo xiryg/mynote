@@ -9,5 +9,6 @@
   "useMarkdownLinks": false,
   "promptDelete": false,
   "readableLineLength": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "useTab": true
 }
