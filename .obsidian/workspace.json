@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "数据库/笔记/01MySQL数据库介绍.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -167,8 +167,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8614d4b8352ed684",
+  "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
+    "前端/CSS/CSS初识.md",
     "数据库/笔记/02MySQL基本操作.md",
     "README.md",
     "数据库/笔记/10新闻管理系统.md",
@@ -183,7 +184,6 @@
     "数据库/笔记",
     "前端/HTML/HTML初识.md",
     "前端/CSS/CSS案例-小米商城.md",
-    "前端/CSS/CSS初识.md",
     "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
     "前端/web前端/笔记/day09/day09-小兔鲜儿.md",
     "前端/web前端/笔记/day08/day08-CSS高级.md",
