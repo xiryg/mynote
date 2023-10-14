@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,19 +167,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3fff4f5deb340d52",
+  "active": "ca5467fe4176e3f1",
   "lastOpenFiles": [
-    "前端/CSS/CSS初识.md",
     "数据库/笔记_2/数据库管理.md",
+    "数据库/笔记/06MySQL高级操作.md",
     "数据库/笔记/02MySQL基本操作.md",
     "数据库/笔记/01MySQL数据库介绍.md",
+    "前端/CSS/CSS初识.md",
     "数据库/笔记_2",
     "README.md",
     "数据库/笔记/10新闻管理系统.md",
     "数据库/笔记/09PHP操作MySQL.md",
     "数据库/笔记/08MySQL安全管理.md",
     "数据库/笔记/07MySQL多表操作.md",
-    "数据库/笔记/06MySQL高级操作.md",
     "数据库/笔记/05MySQL数据库设计规范.md",
     "数据库/笔记/03MySQL数据库字符集.md",
     "数据库/笔记/04MySQL数据库字段详解.md",
