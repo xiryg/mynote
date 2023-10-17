@@ -38,9 +38,11 @@
             "id": "794439b14ed959ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "数据库/笔记_2/数据库管理.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
