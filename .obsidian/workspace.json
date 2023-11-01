@@ -40,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
-                "mode": "source",
+                "file": "数据库/笔记/01MySQL数据库介绍.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md"
+                "file": "数据库/笔记/01MySQL数据库介绍.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
+                "file": "数据库/笔记/01MySQL数据库介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
+                "file": "数据库/笔记/01MySQL数据库介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,19 @@
   "active": "794439b14ed959ad",
   "lastOpenFiles": [
     "前端/CSS/CSS初识.md",
+    "数据库/笔记/04MySQL数据库字段详解.md",
+    "数据库/笔记/01MySQL数据库介绍.md",
+    "爬虫/pj_1.md",
+    "爬虫/selenium.md",
+    "流程.md",
+    "前端/CSS/CSS案例.md",
+    "前端/CSS/css知识点.md",
+    "前端/HTML/html知识点.md",
     "数据库/笔记_2/数据库管理.md",
+    "爬虫",
+    "前端/未命名",
     "数据库/笔记/06MySQL高级操作.md",
     "数据库/笔记/02MySQL基本操作.md",
-    "数据库/笔记/01MySQL数据库介绍.md",
     "数据库/笔记_2",
     "README.md",
     "数据库/笔记/10新闻管理系统.md",
@@ -194,7 +203,6 @@
     "数据库/笔记/07MySQL多表操作.md",
     "数据库/笔记/05MySQL数据库设计规范.md",
     "数据库/笔记/03MySQL数据库字符集.md",
-    "数据库/笔记/04MySQL数据库字段详解.md",
     "数据库/笔记",
     "前端/HTML/HTML初识.md",
     "前端/CSS/CSS案例-小米商城.md",
@@ -203,19 +211,11 @@
     "前端/web前端/笔记/day08/day08-CSS高级.md",
     "前端/web前端/笔记/day07/day07--学成在线.md",
     "前端/web前端/笔记/day06/day06-Flex布局.md",
-    "前端/web前端/笔记/day05/day05-盒子模型.md",
-    "前端/web前端/笔记/day04/day04-CSS进阶.md",
-    "前端/web前端/笔记/day03/day03-CSS基础.md",
-    "前端/web前端/笔记/day02/day02-HTML进阶.md",
     "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
-    "前端/web前端/笔记/day01/day01-HTML基础.md",
     "前端/web前端/笔记/day01/day01-HTML基础.pdf",
-    "assets/1680242502155.png.md",
     "assets",
     "Django",
     "数据库",
-    "前端/JavaScript",
-    "myblog_posts/爬虫案例-豆瓣Top250-数据分析",
-    "myblog_posts"
+    "前端/JavaScript"
   ]
 }

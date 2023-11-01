@@ -114,9 +114,9 @@ obj1
 ##### series索引和值
 
 ```python
->>> obj.values #值是数组的形式
+>>> obj.values [[值是数组的形式]]
 array([ 4,  7, -5,  3], dtype=int64)
->>> obj.index #索引对象
+>>> obj.index [[索引对象]]
 RangeIndex(start=0, stop=4, step=1)
 
 ```
@@ -194,22 +194,22 @@ dic = {
 }
 s = pd.Series(data=dic)
 
-s.shape  #代表 3 个 
+s.shape  [[代表]] 3 个 
 >>>  (3,)
 
 s.size
 >>> 3 
 
-s.index #返回索引
+s.index [[返回索引]]
 
 >>  Index(['语文', '数学', '理综'], dtype='object') 
 
-s.values #返回值
+s.values [[返回值]]
 
 >>array([100,  99, 250], dtype=int64)
 
 
-s.dtype #元素的类型
+s.dtype [[元素的类型]]
 
 >>dtype('int64')
 ```
@@ -242,7 +242,7 @@ s.values.tolist()  # s.to_list() 一样的 注意区别
 ##### isnull()  用于判断每一个元素是否为缺失值
 
 ```python
-#s.isnull() #用于判断每一个元素是否为缺失值，为缺失值返回True，否则返回False
+[[s]].isnull() [[用于判断每一个元素是否为缺失值，为缺失值返回True，否则返回False]]
 s.isnull()
 ```
 
@@ -284,7 +284,7 @@ dic = {
     '英语': np.nan
 }
 s = pd.Series(data=dic)
-s.isnull() #用于判断每一个元素是否为缺失值，为null返回True，否则返回False 
+s.isnull() [[用于判断每一个元素是否为缺失值，为null返回True，否则返回False]] 
 
 
 ```
@@ -323,7 +323,7 @@ obj.append(seris_obj).reset_index(drop = True)  #  特别注意 drop= True
 通过索引的值来删除
 
 ```python
-obj = pd.Series([1,234,4],index = ['a','b','c'])  #类型是 字符串或者int 
+obj = pd.Series([1,234,4],index = ['a','b','c'])  [[类型是]] 字符串或者int 
 obj.drop('a',inplace = True)  # 删除的是索引   inplace = True 对原对象进行修改 或者赋值 
 
 obj
@@ -392,7 +392,7 @@ df['年代'].tolist()
 df['年代'].isnull()
 df['年代'].head(10)
 
-df_new = df['年代'].head(10).drop(7)   #删除 索引为7  的数据 
+df_new = df['年代'].head(10).drop(7)   [[删除]] 索引为7  的数据 
 
 df_new.sort_index(ascending= False)   # 降序排列 
 

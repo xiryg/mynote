@@ -81,7 +81,7 @@ df = pd.DataFrame({'Country': ['China', 'China', 'India', 'India', 'America', 'J
 
 
 
-df.head()  #查看前5个 , 可以写数字 
+df.head()  [[查看前5个]] , 可以写数字 
 df.tail()  # 查看后5个
 df.dtypes  #  查看数据元素类型  s.dtype  和series进行对比
 type(df)   # 查看数据集的类型
@@ -124,7 +124,7 @@ df.append(s,ignore_index= True)
 
 # 第二种方法 
 s= pd.Series(['i',100,30],index= ['Country','Income','Age'])
-s.name = 8   #必须设置name属性 这样才能进行添加 name的值是 要添加的索引值 
+s.name = 8   [[必须设置name属性]] 这样才能进行添加 name的值是 要添加的索引值 
 df.append(s)
 
 
@@ -161,7 +161,7 @@ df['eco'] = range(1,9)  #  值的填入
 
 df['enco'] = pd.Series(range(9))  
 
-#会根据索引的对应进行填入 ,即series的和df 行索引 索引必须得相同  ,如果不相同,不会报错,但是会为缺失值 
+[[会根据索引的对应进行填入]] ,即series的和df 行索引 索引必须得相同  ,如果不相同,不会报错,但是会为缺失值 
 df['enco'] = pd.Series(range(4),index = [3,43,5,6])
 ```
 
@@ -250,7 +250,7 @@ df['Country']  # 等同于
 df.loc[:,['Country','Income']]  #  特别注意:  loc对应的是名字 也就是显示索引   Dataframe的形式 
 df[['Country','Age']]   # 等同于 
 
-#获取指定的多行多列 : 特别注意两个中括号的使用 Dataframe的形式 
+[[获取指定的多行多列]] : 特别注意两个中括号的使用 Dataframe的形式 
 df.loc[['a','b'],['Country','Age']]
 df.iloc[[0,2],[1,2]]
 
@@ -279,7 +279,7 @@ df['Age'] = 90  #  正常赋值
 
 df[df['Age'] %2 == 0 ]['Age'] = 90    # 会出现异样  
 
-new__index = df[df['Age'] %2 == 0 ].index   #先取出index 
+new__index = df[df['Age'] %2 == 0 ].index   [[先取出index]] 
 df.loc[new__index,'Age'] =  90
 ```
 
@@ -375,7 +375,7 @@ df.info()
 s = pd.Series(['Lee','1900-03-03','1999-03-03',90,'musician'],index = ['Name','Born','Died','Age','Occupation'])
 df.append(s,ignore_index = True)  #  或者是用之前的 s.name = 8 
 
-# df.drop(7)  #删除第7行  或者 加中括号 [4,7] 删除4, 7 行 
+# df.drop(7)  [[删除第7行]]  或者 加中括号 [4,7] 删除4, 7 行 
 # df.drop('Name',axis = 1)    # inplace = True  表示对最原始的df进行修改 ,但是注意 不是修改csv 文件 !
 df.Name[0:4]   #  选择前4个科学家的名字 
 # df['other'] = range(0,len(df))  
@@ -384,8 +384,8 @@ df[df['Age'] > df['Age'].mean()]
 
 
 
-df.iloc[0:6]  #说下区别 
-df.loc[0:6] #显示索引 
+df.iloc[0:6]  [[说下区别]] 
+df.loc[0:6] [[显示索引]] 
 
 df.iloc[0,2]   # 获取单个数据
 df.loc[0,'Age']

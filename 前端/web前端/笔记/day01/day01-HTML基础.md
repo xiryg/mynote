@@ -49,7 +49,7 @@ HTML 超文本标记语言——HyperText Markup Language。
 
 
 
-![1680242555328](assets/1680242555328.png)
+![](assets/1680242555328.png)
 
 ## 03-HTML骨架
 

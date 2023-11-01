@@ -10,7 +10,7 @@ date: 2023-08-09 21:04:01
 
 # 作为参数的函数
 
-<div style="background-color: #ffffe0; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+<div style="background-color: [[ffffe0]]; border: 1px solid [[ccc]]; padding: 10px; border-radius: 5px;">
 <details>
 <summary><strong>INFO</strong></summary>
 
