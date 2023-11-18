@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django 开发.md",
+                "file": "myblog_posts/python四大数据类型.md",
                 "mode": "preview",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django 开发.md"
+                "file": "myblog_posts/python四大数据类型.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django 开发.md",
+                "file": "myblog_posts/python四大数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django 开发.md",
+                "file": "myblog_posts/python四大数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,10 @@
   },
   "active": "794439b14ed959ad",
   "lastOpenFiles": [
-    "前端/web前端/笔记/day05/day05-盒子模型.md",
     "Django/Django 开发.md",
+    "myblog_posts/python四大数据类型.md",
+    "myblog_posts/CSS初识.md",
+    "前端/web前端/笔记/day05/day05-盒子模型.md",
     "数据库/笔记/02MySQL基本操作.md",
     "数据库/笔记_2/初识数据库.md",
     "数据库/笔记_2/数据库管理.md",
@@ -209,8 +211,6 @@
     "数据库/笔记",
     "前端/HTML/HTML初识.md",
     "前端/CSS/CSS案例-小米商城.md",
-    "前端/web前端/笔记/day10/day10-小兔鲜儿.md",
-    "前端/web前端/笔记/day09/day09-小兔鲜儿.md",
     "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
     "前端/web前端/笔记/day01/day01-HTML基础.pdf",
     "assets",
