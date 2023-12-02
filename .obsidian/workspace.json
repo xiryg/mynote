@@ -40,14 +40,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myblog_posts/python四大数据类型.md",
-                "mode": "preview",
+                "file": "机器学习/线性回归/线性回归.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2bfc4cbd87c950eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myblog_posts/python四大数据类型.md"
+                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md"
               }
             }
           },
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myblog_posts/python四大数据类型.md",
+                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myblog_posts/python四大数据类型.md",
+                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +190,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "794439b14ed959ad",
+  "active": "2bfc4cbd87c950eb",
   "lastOpenFiles": [
-    "Django/Django 开发.md",
+    "机器学习/线性回归/线性回归.md",
+    "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
     "myblog_posts/python四大数据类型.md",
+    "机器学习/线性回归",
+    "机器学习",
+    "Django/Django 开发.md",
     "myblog_posts/CSS初识.md",
     "前端/web前端/笔记/day05/day05-盒子模型.md",
     "数据库/笔记/02MySQL基本操作.md",
@@ -209,13 +224,9 @@
     "数据库/笔记/05MySQL数据库设计规范.md",
     "数据库/笔记/03MySQL数据库字符集.md",
     "数据库/笔记",
-    "前端/HTML/HTML初识.md",
-    "前端/CSS/CSS案例-小米商城.md",
     "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
     "前端/web前端/笔记/day01/day01-HTML基础.pdf",
     "assets",
-    "Django",
-    "数据库",
-    "前端/JavaScript"
+    "Django"
   ]
 }
