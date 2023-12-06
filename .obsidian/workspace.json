@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/笔记/01MySQL数据库介绍.md",
+                "file": "数据结构与算法/算法/位运算.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "数据结构与算法/算法/位运算.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "数据结构与算法/算法/位运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "数据结构与算法/算法/位运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 494.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +196,17 @@
       "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "remotely-save:Remotely Save": false,
-      "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8614d4b8352ed684",
+  "active": "2bfc4cbd87c950eb",
   "lastOpenFiles": [
-    "未命名",
+    "数据库/笔记/01MySQL数据库介绍.md",
+    "数据结构与算法/算法/位运算.md",
+    "数据结构与算法/算法",
+    "数据结构与算法/未命名.md",
+    "前端/CSS/CSS初识.md",
+    "数据结构与算法",
     "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
     "机器学习/线性回归/线性回归.md",
     "myblog_posts/python四大数据类型.md",
@@ -212,8 +218,6 @@
     "数据库/笔记/02MySQL基本操作.md",
     "数据库/笔记_2/初识数据库.md",
     "数据库/笔记_2/数据库管理.md",
-    "数据库/笔记/01MySQL数据库介绍.md",
-    "前端/CSS/CSS初识.md",
     "数据库/笔记/04MySQL数据库字段详解.md",
     "爬虫/pj_1.md",
     "爬虫/selenium.md",
@@ -230,11 +234,8 @@
     "数据库/笔记/09PHP操作MySQL.md",
     "数据库/笔记/08MySQL安全管理.md",
     "数据库/笔记/07MySQL多表操作.md",
-    "数据库/笔记/05MySQL数据库设计规范.md",
     "数据库/笔记",
     "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
-    "前端/web前端/笔记/day01/day01-HTML基础.pdf",
-    "assets",
-    "Django"
+    "前端/web前端/笔记/day01/day01-HTML基础.pdf"
   ]
 }
