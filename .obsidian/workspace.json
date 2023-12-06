@@ -50,9 +50,11 @@
             "id": "2bfc4cbd87c950eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md"
+                "file": "数据库/笔记/01MySQL数据库介绍.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -107,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,19 +163,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5064235c5063786a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 494.5,
-    "collapsed": true
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +198,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bfc4cbd87c950eb",
+  "active": "8614d4b8352ed684",
   "lastOpenFiles": [
-    "机器学习/线性回归/线性回归.md",
+    "未命名",
     "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
+    "机器学习/线性回归/线性回归.md",
     "myblog_posts/python四大数据类型.md",
     "机器学习/线性回归",
     "机器学习",
@@ -222,7 +231,6 @@
     "数据库/笔记/08MySQL安全管理.md",
     "数据库/笔记/07MySQL多表操作.md",
     "数据库/笔记/05MySQL数据库设计规范.md",
-    "数据库/笔记/03MySQL数据库字符集.md",
     "数据库/笔记",
     "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
     "前端/web前端/笔记/day01/day01-HTML基础.pdf",
