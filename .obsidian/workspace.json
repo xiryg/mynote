@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/笔记_2/数据库管理.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -52,14 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/算法/位运算.md",
-                "mode": "preview",
+                "file": "数据科学/数据科学库.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/算法/位运算.md"
+                "file": "README.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/算法/位运算.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/算法/位运算.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,43 +198,52 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bfc4cbd87c950eb",
+  "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
-    "数据库/笔记/01MySQL数据库介绍.md",
-    "数据结构与算法/算法/位运算.md",
-    "数据结构与算法/算法",
-    "数据结构与算法/未命名.md",
-    "前端/CSS/CSS初识.md",
-    "数据结构与算法",
-    "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
-    "机器学习/线性回归/线性回归.md",
-    "myblog_posts/python四大数据类型.md",
-    "机器学习/线性回归",
-    "机器学习",
-    "Django/Django 开发.md",
-    "myblog_posts/CSS初识.md",
-    "前端/web前端/笔记/day05/day05-盒子模型.md",
-    "数据库/笔记/02MySQL基本操作.md",
-    "数据库/笔记_2/初识数据库.md",
-    "数据库/笔记_2/数据库管理.md",
-    "数据库/笔记/04MySQL数据库字段详解.md",
-    "爬虫/pj_1.md",
-    "爬虫/selenium.md",
     "流程.md",
-    "前端/CSS/CSS案例.md",
-    "前端/CSS/css知识点.md",
-    "前端/HTML/html知识点.md",
-    "爬虫",
-    "前端/未命名",
-    "数据库/笔记/06MySQL高级操作.md",
-    "数据库/笔记_2",
     "README.md",
-    "数据库/笔记/10新闻管理系统.md",
-    "数据库/笔记/09PHP操作MySQL.md",
-    "数据库/笔记/08MySQL安全管理.md",
-    "数据库/笔记/07MySQL多表操作.md",
-    "数据库/笔记",
-    "前端/web前端/笔记/day02/day02-HTML进阶.pdf",
-    "前端/web前端/笔记/day01/day01-HTML基础.pdf"
+    "数据科学/分类和回归.md",
+    "数据科学/数据科学库.md",
+    "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
+    "myblog_posts/缺失值处理.md",
+    "myblog_posts/数据的读取与分组.md",
+    "数据科学/基本框架.md",
+    "数据库/笔记_2/数据库管理.md",
+    "前端/CSS/CSS初识.md",
+    "前端/CSS/CSS案例-小米商城.md",
+    "myblog_posts/python四大数据类型.md",
+    "myblog_posts/pandas基础复习.md",
+    "前端/web前端/笔记/day05/day05-盒子模型.md",
+    "前端/web前端/笔记/day01/day01-HTML基础.md",
+    "数据结构与算法/算法/位运算.md",
+    "数据库/笔记/01MySQL数据库介绍.md",
+    "数据科学",
+    "未命名",
+    "前端/HTML/html知识点.md",
+    "前端/HTML/HTML初识.md",
+    "机器学习/线性回归/线性回归.md",
+    "Django/Django 开发.md",
+    "myblog_posts/pandas基础Series.md",
+    "myblog_posts/pandas基础之DataFrame.md",
+    "myblog_posts/pandas基础复习2.md",
+    "myblog_posts/CSS初识.md",
+    "myblog_posts/图仓-PicGo.md",
+    "前端/web前端/笔记/day10/day10-小兔鲜儿.pdf",
+    "前端/web前端/笔记/day05/day05-盒子模型.pdf",
+    "前端/web前端/笔记/day01/assets/新人培养.jpg",
+    "前端/web前端/笔记/day07/day07--学成在线.pdf",
+    "前端/web前端/笔记/day03/day03-CSS基础.pdf",
+    "前端/web前端/笔记/day01/day01-HTML基础.pdf",
+    "前端/web前端/笔记/day10/assets/1680345389305.png",
+    "前端/web前端/笔记/day10/assets/1680344354682.png",
+    "前端/web前端/笔记/day10/assets/1680344356341.png",
+    "前端/web前端/笔记/day10/assets/1680345419866.png",
+    "前端/web前端/笔记/day10/assets/1680345456528.png",
+    "前端/web前端/笔记/day10/assets/1680345437806.png",
+    "前端/web前端/笔记/day07/assets/1680338517515.png",
+    "前端/web前端/笔记/day10/assets/1680344375183.png",
+    "数据结构与算法/算法",
+    "数据结构与算法",
+    "机器学习/线性回归"
   ]
 }
