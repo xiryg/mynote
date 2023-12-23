@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "数据科学/基本框架.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#数据分析",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "数据科学/基本框架.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "数据科学/基本框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "数据科学/基本框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 494.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,16 +199,16 @@
   },
   "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
-    "流程.md",
-    "README.md",
-    "数据科学/分类和回归.md",
     "数据科学/数据科学库.md",
+    "前端/CSS/CSS初识.md",
+    "README.md",
+    "流程.md",
+    "数据科学/分类和回归.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
     "myblog_posts/缺失值处理.md",
     "myblog_posts/数据的读取与分组.md",
     "数据科学/基本框架.md",
     "数据库/笔记_2/数据库管理.md",
-    "前端/CSS/CSS初识.md",
     "前端/CSS/CSS案例-小米商城.md",
     "myblog_posts/python四大数据类型.md",
     "myblog_posts/pandas基础复习.md",
