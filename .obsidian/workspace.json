@@ -28,10 +28,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据科学/分类和回归.md",
+                "file": "Java/Day 1.md",
                 "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f1c9ae4cc6e5f676",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              },
+              "pinned": true
             }
           },
           {
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "Java/Day 1.md"
               }
             }
           },
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "Java/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "Java/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +211,12 @@
   },
   "active": "8614d4b8352ed684",
   "lastOpenFiles": [
+    "前端/CSS/CSS初识.md",
+    "Java/Day 1.md",
     "Java",
     "数据科学/数据科学库.md",
     "数据科学/基本框架.md",
     "数据科学/分类和回归.md",
-    "前端/CSS/CSS初识.md",
     "README.md",
     "流程.md",
     "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
@@ -242,7 +255,6 @@
     "前端/web前端/笔记/day07/assets/1680338517515.png",
     "前端/web前端/笔记/day10/assets/1680344375183.png",
     "数据结构与算法/算法",
-    "数据结构与算法",
-    "机器学习/线性回归"
+    "数据结构与算法"
   ]
 }
