@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/Day 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -194,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,12 +207,26 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "8614d4b8352ed684",
+  "active": "3fff4f5deb340d52",
   "lastOpenFiles": [
+    "前端/web前端/笔记/day10/day10-小兔鲜儿.pdf",
+    "前端/web前端/笔记/day05/day05-盒子模型.pdf",
+    "前端/web前端/笔记/day01/assets/新人培养.jpg",
+    "前端/web前端/笔记/day07/day07--学成在线.pdf",
+    "前端/web前端/笔记/day03/day03-CSS基础.pdf",
+    "前端/web前端/笔记/day01/day01-HTML基础.pdf",
+    "前端/web前端/笔记/day10/assets/1680345389305.png",
+    "前端/web前端/笔记/day10/assets/1680344354682.png",
+    "前端/web前端/笔记/day10/assets/1680344356341.png",
+    "前端/web前端/笔记/day10/assets/1680345419866.png",
+    "前端/web前端/笔记/day10/assets/1680345456528.png",
+    "前端/web前端/笔记/day10/assets/1680344375183.png",
+    "前端/web前端/笔记/day07/assets/1680338517515.png",
+    "前端/web前端/笔记/day10/assets/1680345437806.png",
     "前端/CSS/CSS初识.md",
     "Java/Day 1.md",
     "Java",
@@ -239,21 +255,6 @@
     "myblog_posts/pandas基础Series.md",
     "myblog_posts/pandas基础之DataFrame.md",
     "myblog_posts/pandas基础复习2.md",
-    "myblog_posts/CSS初识.md",
-    "前端/web前端/笔记/day10/day10-小兔鲜儿.pdf",
-    "前端/web前端/笔记/day05/day05-盒子模型.pdf",
-    "前端/web前端/笔记/day01/assets/新人培养.jpg",
-    "前端/web前端/笔记/day07/day07--学成在线.pdf",
-    "前端/web前端/笔记/day03/day03-CSS基础.pdf",
-    "前端/web前端/笔记/day01/day01-HTML基础.pdf",
-    "前端/web前端/笔记/day10/assets/1680345389305.png",
-    "前端/web前端/笔记/day10/assets/1680344354682.png",
-    "前端/web前端/笔记/day10/assets/1680344356341.png",
-    "前端/web前端/笔记/day10/assets/1680345419866.png",
-    "前端/web前端/笔记/day10/assets/1680345456528.png",
-    "前端/web前端/笔记/day10/assets/1680345437806.png",
-    "前端/web前端/笔记/day07/assets/1680338517515.png",
-    "前端/web前端/笔记/day10/assets/1680344375183.png",
     "数据结构与算法/算法",
     "数据结构与算法"
   ]
