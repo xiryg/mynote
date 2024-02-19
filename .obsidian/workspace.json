@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "前端/CSS/CSS初识.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5fc4441cd62cfa2f",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Day 1.md"
+                "file": "前端/CSS/CSS初识.md"
               }
             }
           },
@@ -159,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Day 1.md",
+                "file": "前端/CSS/CSS初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Day 1.md",
+                "file": "前端/CSS/CSS初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +209,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3fff4f5deb340d52",
+  "active": "ca5467fe4176e3f1",
   "lastOpenFiles": [
+    "Java/Day 1.md",
     "前端/web前端/笔记/day10/day10-小兔鲜儿.pdf",
     "前端/web前端/笔记/day05/day05-盒子模型.pdf",
     "前端/web前端/笔记/day01/assets/新人培养.jpg",
@@ -228,7 +227,6 @@
     "前端/web前端/笔记/day07/assets/1680338517515.png",
     "前端/web前端/笔记/day10/assets/1680345437806.png",
     "前端/CSS/CSS初识.md",
-    "Java/Day 1.md",
     "Java",
     "数据科学/数据科学库.md",
     "数据科学/基本框架.md",
