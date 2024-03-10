@@ -10,5 +10,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showIndentGuide": true,
-  "useTab": true
+  "useTab": true,
+  "showUnsupportedFiles": false
 }

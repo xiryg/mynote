@@ -4,68 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e6169a052ff897",
+        "id": "20257b5287ed93cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5467fe4176e3f1",
+            "id": "c15deb36782f6dcd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
-                "mode": "preview",
+                "file": "数据科学/基本框架.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3fff4f5deb340d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Day 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c9ae4cc6e5f676",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "794439b14ed959ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器学习/线性回归/线性回归.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bfc4cbd87c950eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据科学/数据科学库.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -147,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/CSS初识.md"
+                "file": "数据科学/基本框架.md"
               }
             }
           },
@@ -157,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "数据科学/基本框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/CSS/CSS初识.md",
+                "file": "数据科学/基本框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +159,35 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ca5467fe4176e3f1",
+  "active": "c15deb36782f6dcd",
   "lastOpenFiles": [
+    "myblog_posts/CSS初识.md",
+    "Excalidraw/Drawing 2023-12-02 10.51.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-19 16.27.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 20.11.04_0.excalidraw.md",
+    "Django/Django 开发.md",
+    "爬虫/pj_1.md",
+    "爬虫/selenium.md",
+    "前端/HTML/html知识点.md",
+    "前端/HTML/HTML初识.md",
+    "数据结构与算法/算法/位运算.md",
+    "数据科学/数据科学库.md",
+    "数据科学/分类和回归.md",
+    "数据科学/基本框架.md",
+    "数据库/笔记/07MySQL多表操作.md",
+    "数据库/笔记/04MySQL数据库字段详解.md",
+    "数据库/笔记/02MySQL基本操作.md",
+    "图片/33MySQL登录.jpg.md",
+    "myblog_posts/pandas基础Series.md",
+    "图片",
     "Java/Day 1.md",
+    "myblog_posts/pandas基础复习.md",
+    "myblog_posts/cs61a-高阶函数.md",
+    "myblog_posts/图仓-PicGo.md",
+    "myblog_posts/透视表的处理.md",
+    "myblog_posts/素数判别.md",
+    "myblog_posts/数据的连接和映射.md",
+    "myblog_posts/数据的读取与分组.md",
     "前端/web前端/笔记/day10/day10-小兔鲜儿.pdf",
     "前端/web前端/笔记/day05/day05-盒子模型.pdf",
     "前端/web前端/笔记/day01/assets/新人培养.jpg",
@@ -226,34 +202,9 @@
     "前端/web前端/笔记/day10/assets/1680344375183.png",
     "前端/web前端/笔记/day07/assets/1680338517515.png",
     "前端/web前端/笔记/day10/assets/1680345437806.png",
-    "前端/CSS/CSS初识.md",
     "Java",
-    "数据科学/数据科学库.md",
-    "数据科学/基本框架.md",
-    "数据科学/分类和回归.md",
-    "README.md",
-    "流程.md",
-    "myblog_posts/爬虫案例-豆瓣Top250-数据分析.md",
-    "myblog_posts/缺失值处理.md",
-    "myblog_posts/数据的读取与分组.md",
-    "数据库/笔记_2/数据库管理.md",
-    "前端/CSS/CSS案例-小米商城.md",
-    "myblog_posts/python四大数据类型.md",
-    "myblog_posts/pandas基础复习.md",
-    "前端/web前端/笔记/day05/day05-盒子模型.md",
-    "前端/web前端/笔记/day01/day01-HTML基础.md",
-    "数据结构与算法/算法/位运算.md",
-    "数据库/笔记/01MySQL数据库介绍.md",
     "数据科学",
     "未命名",
-    "前端/HTML/html知识点.md",
-    "前端/HTML/HTML初识.md",
-    "机器学习/线性回归/线性回归.md",
-    "Django/Django 开发.md",
-    "myblog_posts/pandas基础Series.md",
-    "myblog_posts/pandas基础之DataFrame.md",
-    "myblog_posts/pandas基础复习2.md",
-    "数据结构与算法/算法",
-    "数据结构与算法"
+    "数据结构与算法/算法"
   ]
 }
